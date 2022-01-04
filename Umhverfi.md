@@ -4,13 +4,17 @@
 
 Mismunandi eftir dreifingum en fyrir t.d. Ubuntu, keyra eftirfarandi í terminal:
 
-```sudo apt install build-essential gdb```
+```bash
+sudo apt install build-essential gdb
+```
 
 ## macOS
 
 Opna terminal og keyra eftirfarandi skipun:
 
-```xcode-select --install```
+```bash
+xcode-select --install
+```
 
 ## Windows
 
@@ -18,7 +22,9 @@ Opna terminal og keyra eftirfarandi skipun:
 
 Þegar því er lokið (muna að uppfæra Ubuntu), þarf að keyra eftirfarandi línu í Ubuntu terminal:
 
-```sudo apt install build-essential gdb```
+```bash
+sudo apt install build-essential gdb
+```
 
 ### Tengja VSCode við Ubuntu í Windows
 
