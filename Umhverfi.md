@@ -73,7 +73,7 @@ Dæmi:
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "build and run",
+      "label": "build",
       "type": "shell",
       "command": "g++ -g -Wall -Wextra \"${fileDirname}/\"*.cpp -o \"${workspaceFolderBasename}\" && \"./${workspaceFolderBasename}\"",
       "problemMatcher": []
