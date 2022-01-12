@@ -97,4 +97,4 @@ int main() {
 }
 ```
 
-Til að þýða (e. compile) og keyra forritið er smellt á `Ctrl-Shift-B` (`Cmd-Shift-B` á macOS) og svo valið *build and run*.
+Til að þýða (e. compile) og keyra forritið er smellt á `Ctrl-Shift-B` (`Cmd-Shift-B` á macOS) og svo valið *build*.
