@@ -1,5 +1,12 @@
 # Uppsetning á þróunarumhverfi
 
+* [Linux](#linux)
+* [macOS](#macos)
+* [Windows](#windows)
+  + [Tengja VSCode við Ubuntu í Windows](#tengja-vscode-vi--ubuntu---windows)
+  + [Opna Windows möppu í Ubuntu með VSCode](#opna-windows-m-ppu---ubuntu-me--vscode)
+* [VSCode - öll stýrikerfi](#vscode----ll-st-rikerfi)
+
 ## Linux
 
 Mismunandi eftir dreifingum en fyrir t.d. Ubuntu, keyra eftirfarandi í terminal:
@@ -18,11 +25,18 @@ xcode-select --install
 
 ## Windows
 
-**Byrja á að setja upp Ubuntu í Windows Subsystem for Linux, sjá leiðbeiningar [hér](./WSL.md).**
+Opna PowerShell terminal sem Administrator og keyra eftirfarandi skipun:
 
-Þegar því er lokið (muna að uppfæra Ubuntu), þarf að keyra eftirfarandi línu í Ubuntu terminal:
+```powershell
+wsl --install
+```
+
+Ef það virkar ekki þarf að fara eftir [þessum](./WSL.md) leiðbeiningum.
+
+Þegar því er lokið, þarf að keyra eftirfarandi línur í Ubuntu terminal:
 
 ```bash
+sudo apt update && sudo apt upgrade
 sudo apt install build-essential gdb
 ```
 
