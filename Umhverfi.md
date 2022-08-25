@@ -3,9 +3,9 @@
 * [Linux](#linux)
 * [macOS](#macos)
 * [Windows](#windows)
-  + [Tengja VSCode við Ubuntu í Windows](#tengja-vscode-vi--ubuntu---windows)
-  + [Opna Windows möppu í Ubuntu með VSCode](#opna-windows-m-ppu---ubuntu-me--vscode)
-* [VSCode - öll stýrikerfi](#vscode----ll-st-rikerfi)
+  + [Tengja VSCode við Ubuntu í Windows](#tengja-vscode-við-ubuntu-í-windows)
+  + [Opna Windows möppu í Ubuntu með VSCode](#opna-windows-möppu-í-ubuntu-með-vscode)
+* [VSCode - öll stýrikerfi](#vscode---öll-stýrikerfi)
 
 ## Linux
 
