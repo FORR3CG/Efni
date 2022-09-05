@@ -76,9 +76,9 @@ Dæmi:
 
 **ATH.** Öll forrit sem við skrifum í áfanganum þurfa að eiga sér sína eigin möppu. Þær möppur þurfa að vera í FORR3CG möppunni.
 
-Í þeirri möppu (t.d. FORR3CG) þarf að búa til aðra möppu sem á að heita ```.vscode``` (ath. punkturinn er hluti af nafninu).
+Í yfirmöppunni (t.d. FORR3CG) þarf að búa til aðra möppu sem á að heita ```.vscode``` (ath. punkturinn er hluti af nafninu).
 
-Í ```.vscode``` möppunni þarf svo að búa til skránna ```tasks.json``` og í þá skrá þarf að afrita eftirfarandi (skránna má líka sækja [hér](https://gist.github.com/gestskoli/9c9409bad2ab5f56a649dff76b8be4e6)):
+Í ```.vscode``` möppunni þarf svo að búa til skrána ```tasks.json``` og í þá skrá þarf að afrita eftirfarandi (skrána má líka sækja [hér](https://gist.github.com/gestskoli/9c9409bad2ab5f56a649dff76b8be4e6)):
 
 ```json
 {
